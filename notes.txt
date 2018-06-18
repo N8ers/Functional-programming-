@@ -1,1 +1,5 @@
 notes (test save)
+
+Part 1; Higher-order functions
+url: https://www.youtube.com/watch?v=BMUiFMZr7vk&list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84
+
